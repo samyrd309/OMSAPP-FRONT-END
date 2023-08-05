@@ -1,0 +1,45 @@
+# Dependencias de react native
+node_modules
+.expo
+
+# Producción
+build
+
+# Archivos de pruebas
+coverage
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales
+.temp
+.tmp
+
+# Archivos del sistema macOS
+.DS_Store
+
+# Archivos del sistema Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos del editor Visual Studio Code
+.vscode
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Dependencias podadas
+pods
+
+# Ayuda para Xcode
+xcuserdata
+
+# Archivos Objective-C generados
+ios/build
+
+# Archivos Swift generados
+ios/Pods
